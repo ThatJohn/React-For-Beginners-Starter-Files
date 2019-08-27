@@ -1,5 +1,13 @@
 ![](https://wes.io/dgAQ/content)
 
+# Nodejs v12 is not compatible with this project, you need node v11 or earlier:
+Install nvm and run 
+```nvm install 11```
+then select node 11:
+```nvm use 11```
+and you'll be set to go.
+
+
 # React For Beginners — [ReactForBeginners.com](https://ReactForBeginners.com)
 
 Starter files for the React For Beginners course. Come <a href="https://ReactForBeginners.com/">Learn React</a> with me!
